@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 21 13:39:04 2022
 
-@author: hp
-"""
 import numpy as np
 from random import random
 import pandas as pd
